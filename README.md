@@ -5,7 +5,7 @@
 <img src=".github/sdcard-logo.png" style="width:40%; max-width: 300px;" >
 </p>
 
-# MainsailOS
+# MainsailOS (Test on fresh branch)
 
 MainsailOS is a pre-configured operating system for your 3D printer's
 single-board computer (SBC). It simplifies getting started with Klipper and the
